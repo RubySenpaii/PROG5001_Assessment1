@@ -1,0 +1,34 @@
+f1
+ask for unit name
+
+f2
+initialize integer array
+ask for 25 student marks
+
+if mark input is between 0 and 100
+	accept input
+else
+	reject input and ask again
+	f3
+	print error message
+
+f4
+print unit name
+initialize highest with zero
+initialize lowest with zero
+initialize total with zero
+loop 25 student marks
+	while looping print student mark
+	while looping add student marks for total
+	while looping compare highest value to current value
+	while looping compare lowest value to current value
+
+f5
+print lowest
+print highest
+
+f6
+initialize standard deviation with zero
+compute for mean
+loop 25 student marks
+	while looping add the square the difference of number and mean to standard deviation
